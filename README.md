@@ -8,3 +8,5 @@ fslmeants -i <input_path> -m <mask_path> -o <output_path>
 Input_path can be pointed to downloaded fMRI data,, mask_path to the ROI mask downloaded and output_path to the location where timeseries text file has to saved.
 
 Finally you have to save the timeseries as a matlab file of size 90 x timepoints (use matlab, for our program 343RfmriTimeseries consists of 1372 variables named subject_session.mat(90*1200) and a subject variable with 1372 cell to identify session and subject, similarly for other resting state and task data). Now we can use the matlab files provided here to replicate the results. The main program can be called to output the results presented.
+
+** MAKE USE OF PARFOR FOR COMPUTATIONAL EFFICIANCY **
