@@ -1,5 +1,5 @@
 # IndividualBrainConnectivity
-The codes shared in this folder can be used to replicate the results explained in “A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Sex Using Intrinsic Individual Brain Connectivity”. 
+The codes shared in this folder can be used to replicate the results explained in “A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity”. 
 
 Initially preprocessed data has to be downloaded from HCP website. For 3T, resting state file named “rfMRI_REST_1/2_LR/RL_hp2000_clean.nii.gz”  has to be downloaded for sessions 1_LR, 1_RL, 2_LR and 2_RL and task file named “tfMRI_task_LR/RL.nii.gz” for tasks EMOTION, GAMBLING, LANGUAGE, MOTOR, RELATIONAL, SOCIAL and WM LR and RL configurations . For 7T, resting state file named “rfMRI_REST1/2_7T_PA/AP_hp2000_clean.nii.gz”  has to be downloaded for sessions 1 PA, 1 AP, 2 PA and 2 AP. 
 
