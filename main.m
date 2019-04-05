@@ -1,6 +1,5 @@
 % This program can be used to run the subprograms and output the results
-% A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity
-% Sreevalsan S Menon, K Krishnamurthy
+% Menon, S. S., & Krishnamurthy, K. (2019). A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity. Scientific Reports, 9(1), 5729. https://doi.org/10.1038/s41598-019-42090-4
 
 clc                         % Main Program
 clear                       % Clear workspace
