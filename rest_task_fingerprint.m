@@ -1,6 +1,5 @@
 %  Subject identification using 3T tfMRI data 
-% A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity
-% Sreevalsan S Menon, K Krishnamurthy
+% Menon, S. S., & Krishnamurthy, K. (2019). A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity. Scientific Reports, 9(1), 5729. https://doi.org/10.1038/s41598-019-42090-4
 % This program  performs Subject identification using 3T tfMRI data
 % (Results section 3). save task.mat files as in resting state(642/task * 7files)
 
