@@ -4,8 +4,7 @@
 % https://github.com/ahheckel/FSL-scripts/blob/master/rsc/scripts/bin/FSLNets/nets_netmats.m
 % netmats = nets_netmats(ts,z,method);
 % netmats = nets_netmats(ts,z,method,method_parameter);
-% A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity
-% Sreevalsan S Menon, K Krishnamurthy
+% % Menon, S. S., & Krishnamurthy, K. (2019). A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity. Scientific Reports, 9(1), 5729. https://doi.org/10.1038/s41598-019-42090-4
 % ts: structure containing node information including all timeseries
 %     *OR* it can be a single timeXspace matrix (in which case the output netmat is square, not unwrapped)
 %
