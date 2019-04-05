@@ -1,6 +1,5 @@
 % Subject identification using 3T and 7T rfMRI data
-% A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity
-% Sreevalsan S Menon, K Krishnamurthy
+% Menon, S. S., & Krishnamurthy, K. (2019). A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity. Scientific Reports, 9(1), 5729. https://doi.org/10.1038/s41598-019-42090-4
 % This program finds and save the static and dynamic fc and performs connectome fingerprinting (Results section 1).  Note the data input to the program is 4 resting state data available for subjects
 % Here we have subject variable as cell with names LR1/LR2/RL1/RL2_subject row wise
 % thus subject variable is 1372*1 cell (4*343) and timeseries was saved as
