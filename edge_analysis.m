@@ -1,8 +1,7 @@
 %  Edge analysis in subject identification
 % This program  performs edge analysis (Results section 2).  Note this has
 % to be ran after resting_state_fingerprint function
-% A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity
-% Sreevalsan S Menon, K Krishnamurthy
+% Menon, S. S., & Krishnamurthy, K. (2019). A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity. Scientific Reports, 9(1), 5729. https://doi.org/10.1038/s41598-019-42090-4
 
 %% Pearson sFC edge consistency and variation
 % This section of program calculates edge consistency and variation for
