@@ -1,8 +1,7 @@
 % sex Identification differential power of edges
 % This program can be used to reproduce results explained in differential power of edges in sex
 % identification ( Results section 5).
-% A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity
-% Sreevalsan S Menon, K Krishnamurthy
+% Menon, S. S., & Krishnamurthy, K. (2019). A Comparison of Static and Dynamic Functional Connectivities for Identifying Subjects and Biological Sex Using Intrinsic Individual Brain Connectivity. Scientific Reports, 9(1), 5729. https://doi.org/10.1038/s41598-019-42090-4
 
 %% Pearson sFC
 % This section of program finds edges differential power in sex
