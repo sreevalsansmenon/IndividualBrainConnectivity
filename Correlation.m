@@ -37,7 +37,7 @@
 %     e.g.:  netmats=nets_netmats(ts,1,'ridgep',1);  % rho=1
 %
 
-function fc = Correlation(ts,do_rtoz,method,NtimepointsPerSubject)
+function fc = Correlation(ts,do_rtoz,method,NtimepointsPerSubject,varargin)
 
 
 N=size(ts,2);
