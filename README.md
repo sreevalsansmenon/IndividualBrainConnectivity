@@ -14,4 +14,5 @@ Input_path can be pointed to the downloaded fMRI data, mask_path to the ROI mask
 Finally, you have to save the time series as a MATLAB file of size 90 x time points (use MATLAB, for our program 343RfmriTimeseries consists of 1372 variables named subject_session.mat (90*1200) and a subject variable with 1372 cells to identify session and subject, similarly for other resting state and task data). Now we can use the MATLAB files provided here to replicate the results. The main program can be called to output the results presented.
 
 ** MAKE USE OF PARFOR FOR COMPUTATIONAL EFFICIENCY **
+
 ** Codes shared here are in a redundant coding fashion for better clarity **
